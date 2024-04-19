@@ -21,5 +21,5 @@ To use LoanPredictor:
 
 ## Contributors
 - Ravi
-- 
+
 Please feel free to explore the application and provide feedback.
