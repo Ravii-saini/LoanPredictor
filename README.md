@@ -20,7 +20,6 @@ To use LoanPredictor:
 - Required Python libraries (NumPy, Pandas, Scikit-learn, etc.)
 
 ## Contributors
-- Ravi Saini
-
-## Acknowledgments
-- Special thanks to MyAnalyticsSchool.
+- Ravi
+- 
+Please feel free to explore the application and provide feedback.
